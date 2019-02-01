@@ -1,3 +1,4 @@
+//Programme pascal carré magique sans procédure.
 program Carre_magique_no_procedure;
 uses crt ;
 //BUT : R‚aliser un carr‚ magique
